@@ -1,0 +1,11 @@
+{
+  "name": "No Achievements Badge",
+  "version": "v1.0",
+  "author": "stenowtf",
+  "target": "Tweak",
+  "description": "Removes the Achievements Badge from the game page",
+  "inject": {
+    "shared.css": ["SP"]
+  },
+  "manifest_version": 4
+}
